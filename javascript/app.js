@@ -1,0 +1,1 @@
+document.write("primer escrito java scritp by luli")
